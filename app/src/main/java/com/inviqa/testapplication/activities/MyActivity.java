@@ -1,9 +1,11 @@
-package com.inviqa.testapplication;
+package com.inviqa.testapplication.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.inviqa.testapplication.R;
 
 
 public class MyActivity extends Activity {
